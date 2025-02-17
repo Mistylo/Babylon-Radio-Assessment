@@ -1,6 +1,6 @@
-# babylon_radio_assignment
+# babylon_radio_assessment
 
-A new Flutter project.
+A Flutter project for Babylon Radio Assessment
 
 ## Getting Started
 
