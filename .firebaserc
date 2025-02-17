@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "assessment": "babylon-radio-leticia",
+    "default": "babylon-radio-leticia"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}

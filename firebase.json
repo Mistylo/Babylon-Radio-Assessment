@@ -1,0 +1,39 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "babylon-radio-leticia",
+          "appId": "1:404395786341:android:949c9c7eb8f51a641b468c",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "babylon-radio-leticia",
+          "configurations": {
+            "android": "1:404395786341:android:949c9c7eb8f51a641b468c",
+            "ios": "1:404395786341:ios:a6710a727118ccd71b468c",
+            "macos": "1:404395786341:ios:a6710a727118ccd71b468c",
+            "web": "1:404395786341:web:4807e294fa3cd9741b468c",
+            "windows": "1:404395786341:web:c426474b05938c531b468c"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web", 
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
