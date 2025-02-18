@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAfdYL56Ztgn534nFiD5VGQ6zjHcnf7z1w',
+    apiKey: '',
     appId: '1:404395786341:web:4807e294fa3cd9741b468c',
     messagingSenderId: '404395786341',
     projectId: 'babylon-radio-leticia',
@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyC34mGQZW8E4IBSeCuMhNUbzwzKlunZcT4',
+    apiKey: '',
     appId: '1:404395786341:android:949c9c7eb8f51a641b468c',
     messagingSenderId: '404395786341',
     projectId: 'babylon-radio-leticia',
@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAiIMOz01T3BJEPZSJcAzzHZIrtyyiNv8w',
+    apiKey: '',
     appId: '1:404395786341:ios:a6710a727118ccd71b468c',
     messagingSenderId: '404395786341',
     projectId: 'babylon-radio-leticia',
@@ -67,7 +67,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAiIMOz01T3BJEPZSJcAzzHZIrtyyiNv8w',
+    apiKey: '',
     appId: '1:404395786341:ios:a6710a727118ccd71b468c',
     messagingSenderId: '404395786341',
     projectId: 'babylon-radio-leticia',
@@ -76,7 +76,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAfdYL56Ztgn534nFiD5VGQ6zjHcnf7z1w',
+    apiKey: '',
     appId: '1:404395786341:web:c426474b05938c531b468c',
     messagingSenderId: '404395786341',
     projectId: 'babylon-radio-leticia',
